@@ -1,4 +1,4 @@
-package exercise2;
+git package exercise2;
 
 import java.util.Scanner;
 import static java.lang.Math.sqrt;
