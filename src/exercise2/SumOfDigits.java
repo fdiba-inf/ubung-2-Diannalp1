@@ -16,7 +16,7 @@ public class SumOfDigits {
      y = temp % 10;
      z = j % 10;
      int sum = x + y + z;
-     System.out.println("Sum of Digits: " + sum);
+     System.out.println("Sum of digits: " + sum);
    }
 
 } 
